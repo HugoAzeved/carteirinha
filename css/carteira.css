@@ -6,12 +6,14 @@
 
 
 .rg {
-    background-color: rgb(144, 241, 141);
-    width: 500px;
+    background-color: rgb(178, 241, 141);
+    width: 550px;
     height: 250px;
-    border: 2px solid black;
+    border: solid .5rem steelblue;
+    border-radius: .3rem;
     padding: 10px;
     display: flex;
+    margin: auto;
 }
 
 .foto {
