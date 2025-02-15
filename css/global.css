@@ -34,19 +34,6 @@ h1 {
     font-size: 1.2rem;
 }
 
-
-table,
-th,
-td {
-    border: 1px solid white;
-    border-collapse: collapse;
-}
-
-th, td {
-    background-color: #96c0d4;
-  }
-
-.vac{
-    height: 200px;
-    width: 200px;
+#dose{
+    background-color: royalblue;
 }
